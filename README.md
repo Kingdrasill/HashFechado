@@ -1,2 +1,1 @@
-# HashFechado
-Tabela Hash fechada
+# Tabela Hash fechada

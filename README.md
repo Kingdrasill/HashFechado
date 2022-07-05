@@ -1,0 +1,2 @@
+# HashFechado
+Tabela Hash fechada
